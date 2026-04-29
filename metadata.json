@@ -1,0 +1,8 @@
+{
+  "name": "Block Paste in Guides (also turn off right click).",
+  "type": "helper",
+  "properties": {
+    "user_type": "all", 
+    "component": "all"
+  }
+}
